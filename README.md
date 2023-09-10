@@ -24,4 +24,4 @@ when overlaps the player projectile it set **dodging** field to true and **overr
 
 **Projectile** class has **speed** and **deadZone** fields. It also has **Speed** property so spaceships cannot set negative speed for projectiles because it doesn't make sense. It has **Move** function to move and check the deadzone with **IsInDeadZone** function. If it is in deadzone, it destroy itself
 
-https://github.com/aydinkn/programming-theory-repo/assets/5111036/df1a8587-d280-4fcf-b0a5-6c720117451f
+https://github.com/aydinkn/programming-theory-repo/assets/5111036/13174940-9336-4170-9889-a85e2e070a3b
