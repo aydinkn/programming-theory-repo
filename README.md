@@ -1,5 +1,5 @@
 # Introduction
-This prototype is for Unity's programming theory which is about the 4 pillars of OOP
+This prototype is for Unity's programming theory assessment which is about the 4 pillars of OOP
 
 ## Player
 In the game, there is a blue cube that the player controls. Player can move with **A** and **B** keys and it can shoot a bullet with **SpaceBar**.
